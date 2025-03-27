@@ -3,8 +3,16 @@ body * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: blue;
+    background-color: black;
 }
 
 body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+.bg-blue {
+    background-color: #03a9f5;
+  }
+
+  
