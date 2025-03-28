@@ -25,3 +25,17 @@ body {
 .center {
   text-align: center;
 }
+
+    background-color: #03a9f5;
+  }
+  .logo {
+    height: 40px;
+    width: 100%;
+    object-fit: contain;
+    object-position: center;
+  }
+  
+  .center {
+    text-align: center;
+  }
+
