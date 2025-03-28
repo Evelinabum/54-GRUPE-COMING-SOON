@@ -6,14 +6,8 @@
   width: 100%;
   padding: 60px 0;
 }
-.logo {
-  width: 60px;
-  text-align: center;
-}
 .container > .row {
   display: flex;
-  flex-direction: column;
-
   justify-content: space-between;
   width: 1000px;
   row-gap: 60px;
