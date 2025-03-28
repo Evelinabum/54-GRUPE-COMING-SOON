@@ -49,6 +49,8 @@ body {
   }
 
   .hero {
+    height: 100vh;
+    justify-content: center;
     background-image: url(../../img/hero\ \(1\).png);
     background-position: center;
     background-attachment: fixed;
