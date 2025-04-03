@@ -12,6 +12,7 @@
   justify-content: space-between;
   width: 62rem;
   row-gap:4rem;
+  position: relative;
 }
 
 .container > .row-short {
